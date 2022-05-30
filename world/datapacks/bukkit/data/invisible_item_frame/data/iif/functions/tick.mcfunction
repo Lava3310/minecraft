@@ -1,0 +1,1 @@
+execute at @e[type=item_frame,nbt={Item:{id:"minecraft:feather",Count:1b,tag:{display:{Name:'{"text":"Invisible"}'}}}}] run function iif:function
